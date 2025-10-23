@@ -1,6 +1,6 @@
 # My dotfiles
 
-This directory has all the dotfiles for my penguin laptop.
+This directory has all the dotfiles for my penguin laptop. 
 
 ## Requirements
 
@@ -23,7 +23,7 @@ pacman -S stow
 Get the dotfiles repo in the $HOME directory with git.
 
 ```
-$ git clone git@github.com/konstantinosy/dotfiles.git
+$ git clone git@github.com/k0st1e/dotfiles.git
 $ cd dotfiles
 ```
 
